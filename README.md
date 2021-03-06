@@ -1,4 +1,4 @@
 # cdn
 
 
-https://cdn.jsdelivr.net/gh/imleft/
+https://cdn.jsdelivr.net/gh/imleft/cdn/
